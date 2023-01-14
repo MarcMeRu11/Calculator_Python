@@ -1,3 +1,6 @@
+#Creado por @MarcMeRu11
+#A creation of @MarcMeRu11
+
 #Librería math para realizar operaciones complejas.
 import math
 import os
